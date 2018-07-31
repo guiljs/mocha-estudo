@@ -1,0 +1,18 @@
+{
+  "name": "estudo2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "mocha": "^5.2.0",
+    "remarkable": "^1.7.1"
+  }
+}
